@@ -1,5 +1,6 @@
 from abc import ABCMeta
 
+
 class MoexObject:
     __metaclass__ = ABCMeta
 

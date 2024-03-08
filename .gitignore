@@ -5,13 +5,14 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 .vscode/
+.moexvenv
 # Local History for Visual Studio Code
 .history/
 
 # Built Visual Studio Code Extensions
 *.vsix
 
-
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
